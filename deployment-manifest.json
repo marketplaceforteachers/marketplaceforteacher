@@ -1,0 +1,15 @@
+{
+  "application": "MarketplaceForTeachers.com",
+  "domain": "marketplaceforteachers.com",
+  "version": "2.4.0",
+  "buildVersion": "v2026.08-prod-release",
+  "buildDate": "2026-08-16T04:20:00.000Z",
+  "nodeVersionRequirement": ">=20.0.0 (Node.js 20.x or 22.x LTS)",
+  "frontendBuild": "React 19 / Vite / Tailwind CSS -> dist/ (index.html & assets)",
+  "backendEntryPoint": "dist/server.cjs",
+  "startCommand": "node dist/server.cjs",
+  "databaseType": "MySQL 8.0+ / MariaDB 10.6+",
+  "databaseTables": 16,
+  "emailProvider": "Resend REST API (Direct HTTPS, No Port 25/587 Blocks)",
+  "deploymentTarget": "cPanel Shared Hosting (Setup Node.js App / Phusion Passenger)"
+}

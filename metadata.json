@@ -1,0 +1,6 @@
+{
+  "name": "Marketplace For Teachers",
+  "description": "A premier USA-based online marketplace and management platform where verified educators buy, sell, and exchange classroom supplies, furniture, books, electronics, and learning kits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
